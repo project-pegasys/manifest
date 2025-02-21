@@ -3,6 +3,9 @@
   <remote name="github" fetch="https://github.com/project-pegasys" />
   <default revision="refs/heads/main" remote="github" sync-j="8" />
   <project path="base/acl" name="base-acl" />
+  <project path="base/attr" name="base-attr" />
+  <project path="base/bash" name="base-bash" />
+  <project path="base/bc" name="base-bc" />
   <project path="base/coreutils" name="base-coreutils" />
   <project path="build" name="build" />
   <project path="templates" name="templates" />
