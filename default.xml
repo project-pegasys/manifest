@@ -6,6 +6,7 @@
   <project path="base/attr" name="base-attr" />
   <project path="base/bash" name="base-bash" />
   <project path="base/bc" name="base-bc" />
+  <project path="devel/binutils-gdb" name="devel-binutils-gdb" />
   <project path="base/coreutils" name="base-coreutils" />
   <project path="build" name="build" />
   <project path="templates" name="templates" />
