@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="github" fetch="https://github.com/project-pegasys" />
-  <default revision="main" remote="github" sync-j="8" />
+  <default revision="refs/heads/main" remote="github" sync-j="8" />
   <project name="base-acl" path="base/acl" />
   <project name="base-coreutils" path="base/coreutils" />
   <project name="build" path="build" />
