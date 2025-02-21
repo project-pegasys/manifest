@@ -2,7 +2,7 @@
 <manifest>
   <remote name="github" fetch="https://github.com/project-pegasys" />
   <default revision="refs/heads/main" remote="github" sync-j="8" />
-  <project name="base-acl" path="base/acl" />
-  <project name="base-coreutils" path="base/coreutils" />
-  <project name="build" path="build" />
+  <project path="base/acl" name="base-acl" />
+  <project path="base/coreutils" name="base-coreutils" />
+  <project path="build" name="build" />
 </manifest>
