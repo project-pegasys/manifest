@@ -5,4 +5,5 @@
   <project path="base/acl" name="base-acl" />
   <project path="base/coreutils" name="base-coreutils" />
   <project path="build" name="build" />
+  <project path="templates" name="templates" />
 </manifest>
